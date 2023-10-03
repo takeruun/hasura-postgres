@@ -4,9 +4,9 @@
 - hasura cliがインストールされていること
 
 ## 1. hasura 初期化
+hasura ディレクトリで初期化
 ```
 $ hasura init hasura
-
 ```
 
 ## 2. 生成された config.yaml の編集
